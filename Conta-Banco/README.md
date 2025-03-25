@@ -3,7 +3,7 @@ Seguindo as regras propostas
 # REPOSITÓRIO BASE
 [Repositório-base](https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/sintaxe)
 
-Para execução do projeto basta fazer uma clone do projeto, pelo terminal navegar até pasta <b>bin</b> digitar o comando <b>java ContaTerminal</b>.
+Para execução do projeto basta fazer um clone do projeto, pelo terminal navegar até pasta <b>bin</b> digitar o comando <b>java ContaTerminal</b>.
 
 Navegando até a pasta bin
 
